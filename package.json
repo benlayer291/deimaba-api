@@ -15,5 +15,19 @@
   "bugs": {
     "url": "https://github.com/benlayer291/deimaba-api/issues"
   },
-  "homepage": "https://github.com/benlayer291/deimaba-api#readme"
+  "homepage": "https://github.com/benlayer291/deimaba-api#readme",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "dotenv": "^6.2.0"
+  },
+  "devDependencies": {
+    "babel-eslint": "^10.0.1",
+    "eslint": "^5.12.1",
+    "eslint-config-airbnb-base": "^13.1.0",
+    "eslint-import-resolver-webpack": "^0.11.0",
+    "eslint-loader": "^2.1.1",
+    "eslint-plugin-import": "^2.15.0",
+    "eslint-plugin-node": "^8.0.1",
+    "eslint-plugin-promise": "^4.0.1"
+  }
 }
