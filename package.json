@@ -18,7 +18,8 @@
   "homepage": "https://github.com/benlayer291/deimaba-api#readme",
   "dependencies": {
     "axios": "^0.18.0",
-    "dotenv": "^6.2.0"
+    "dotenv": "^6.2.0",
+    "fs-extra": "^7.0.1"
   },
   "devDependencies": {
     "babel-eslint": "^10.0.1",
